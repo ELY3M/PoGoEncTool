@@ -54,7 +54,7 @@ jobs:
         
 ##D:\a\PoGoEncTool\PoGoEncTool\PoGoEncTool.WinForms\bin\Release\net9.0-windows\publish\
     - name: Zipping up Release folder
-      run: 7z a release.zip "${{ github.workspace }}\PoGoEncTool.WinForms\bin\Release\net9.0-windows\publish\*"
+      run: 7z a PoGoEncTool-release.zip "${{ github.workspace }}\PoGoEncTool.WinForms\bin\Release\net9.0-windows\publish\*"
              
     - name: Upload Release
       uses: softprops/action-gh-release@v2
@@ -63,7 +63,7 @@ jobs:
         prerelease: false    
         tag_name: ${{ github.run_number }}
         body: ${{ github.event.head_commit.message }}
-        files: ${{ github.workspace }}\release.zip
+        files: ${{ github.workspace }}\PoGoEncTool-release.zip
       env:
         GITHUB_TOKEN: ${{ github.token }}
         
