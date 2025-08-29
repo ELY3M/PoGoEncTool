@@ -37,7 +37,7 @@
             "D": 17
           },
           "Type": 10,
-          "Comment": "One-Star Raid Boss (Kanto Celebration)"
+          "Comment": "One-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -886,7 +886,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, Day 2)"
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 2)"
         },
         {
           "Start": {
@@ -922,16 +922,45 @@
           "Start": {
             "Y": 2025,
             "M": 8,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
             "D": 23
           },
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 23
+            "D": 24
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 1)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -963,7 +992,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "One-Star Raid Boss (Kanto Celebration)"
+          "Comment": "One-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -2004,7 +2033,21 @@
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 24
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 23
           },
           "End": {
             "Y": 2025,
@@ -2013,7 +2056,22 @@
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 2)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Mega Charizard X)"
         }
       ]
     },
@@ -2045,7 +2103,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "One-Star Raid Boss (Kanto Celebration)"
+          "Comment": "One-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -2892,7 +2950,21 @@
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 24
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 23
           },
           "End": {
             "Y": 2025,
@@ -2901,7 +2973,22 @@
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 2)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -3203,7 +3290,21 @@
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 24
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 23
           },
           "End": {
             "Y": 2025,
@@ -3212,7 +3313,7 @@
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 2)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -3673,6 +3774,21 @@
             "Y": 2025,
             "M": 8,
             "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -5497,6 +5613,21 @@
           },
           "Type": 10,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Night: Texas Rangers)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -10184,7 +10315,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Two-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Two-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -11338,6 +11469,51 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 6
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Sweet Spooky World"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Lurking Dark Hour)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Lurking Dark Hour)"
         }
       ]
     },
@@ -11567,6 +11743,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -11866,6 +12057,11 @@
             "M": 12,
             "D": 31
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Winter Holiday 2023: Part 2)"
@@ -11884,6 +12080,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -12907,6 +13113,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -13565,6 +13787,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -13702,7 +13934,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -14875,16 +15107,30 @@
           "Start": {
             "Y": 2025,
             "M": 8,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
             "D": 23
           },
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 23
+            "D": 24
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 1)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -16103,7 +16349,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Four-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Four-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -17012,6 +17258,51 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Fanciful Fairy Hour)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Fanciful Fairy Hour)"
         }
       ]
     },
@@ -18435,6 +18726,22 @@
             "Y": 2024,
             "M": 5,
             "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
           },
           "Shiny": 1,
           "Type": 10,
@@ -19880,7 +20187,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Two-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Two-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -21387,16 +21694,45 @@
           "Start": {
             "Y": 2025,
             "M": 8,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
             "D": 23
           },
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 23
+            "D": 24
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 1)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Sweet Spooky World, No Costume)"
         }
       ]
     },
@@ -21428,7 +21764,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -22472,7 +22808,21 @@
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 24
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 23
           },
           "End": {
             "Y": 2025,
@@ -22481,7 +22831,7 @@
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 2)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -23029,7 +23379,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area: Fukuoka"
+          "Comment": "Pok\u00E9mon GO Wild Area 2024: Fukuoka"
         },
         {
           "Start": {
@@ -23059,7 +23409,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area: Global"
+          "Comment": "Pok\u00E9mon GO Wild Area 2024: Global"
         },
         {
           "Start": {
@@ -25657,7 +26007,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Two-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Two-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -26206,7 +26556,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Two-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Two-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -26786,6 +27136,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Dark Skies)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Tales of Transformation)"
         }
       ]
     },
@@ -26948,7 +27313,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Four-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Four-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -28261,6 +28626,35 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Raid Day: Mega Kangaskhan)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 10,
+          "Comment": "Three-Star Raid Boss (Anaheim 2025 Pok\u00E9mon World Championships, In-Person Event)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -29087,7 +29481,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -31935,6 +32329,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -32000,7 +32409,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Raid Day: Mega Gyarados)"
+          "Comment": "Mega Raid Boss (Raid Day: Mega Gyarados 2022)"
         },
         {
           "Start": {
@@ -32225,6 +32634,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Water Festival 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Raid Day: Mega Gyarados 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -32271,7 +32710,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Four-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Four-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -33003,16 +33442,30 @@
           "Start": {
             "Y": 2025,
             "M": 8,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
             "D": 23
           },
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 23
+            "D": 24
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 1)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -34437,7 +34890,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -34657,7 +35110,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -34816,7 +35269,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -35430,7 +35883,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Four-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Four-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -35909,7 +36362,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, No Costume)"
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, No Costume)"
         },
         {
           "Start": {
@@ -35984,16 +36437,30 @@
           "Start": {
             "Y": 2025,
             "M": 8,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
             "D": 23
           },
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 23
+            "D": 24
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 1)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -38643,6 +39110,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Fashion Week 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -39716,22 +40199,6 @@
             "Y": 2025,
             "M": 8,
             "D": 15
-          },
-          "Shiny": 1,
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
           },
           "Shiny": 1,
           "Type": 10,
@@ -43328,21 +43795,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -45034,21 +45486,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -45921,6 +46358,20 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 1,
+          "Comment": "Anaheim 2025 Pok\u00E9mon World Championships (In-Person Event)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 9,
             "D": 27
           },
@@ -45932,6 +46383,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Amsterdam, Bangkok, Canc\u00FAn, Valencia, Vancouver 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
         }
       ]
     },
@@ -46493,6 +46959,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Global (Day 2)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
         }
       ]
     },
@@ -47081,6 +47577,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: Global"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
         }
       ]
     },
@@ -47341,6 +47852,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Global (Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 1,
+          "Comment": "Anaheim 2025 Pok\u00E9mon World Championships (In-Person Event)"
         }
       ]
     },
@@ -47679,6 +48204,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Global (Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
         }
       ]
     },
@@ -48033,6 +48588,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Global (Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
         }
       ]
     },
@@ -48455,6 +49040,35 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Unova \u2013 Global"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 1,
+          "Comment": "Anaheim 2025 Pok\u00E9mon World Championships (In-Person Event)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
         }
       ]
     },
@@ -49672,6 +50286,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Global (Day 2)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
         }
       ]
     },
@@ -50517,6 +51146,46 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Level 50 Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
         }
       ]
     },
@@ -52572,6 +53241,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2024: Strength of Steel)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -53097,6 +53781,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -53193,21 +53893,6 @@
             "Y": 2025,
             "M": 8,
             "D": 15
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -53613,6 +54298,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Bug Out! 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -54063,21 +54763,6 @@
             "Y": 2025,
             "M": 8,
             "D": 15
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -56072,22 +56757,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "Shiny": 1,
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -57176,7 +57845,7 @@
           "Start": {
             "Y": 2025,
             "M": 4,
-            "D": 6
+            "D": 5
           },
           "End": {
             "Y": 2025,
@@ -60206,6 +60875,38 @@
             "Y": 2025,
             "M": 4,
             "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Became Kanto Celebration 2025 Wild Encounters)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Became Pok\u00E9mon Concierge Celebration Event Wild Encounters)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
           },
           "Shiny": 1,
           "Type": 1,
@@ -67302,6 +68003,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -68235,6 +68951,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Lurking Dark Hour)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Lurking Dark Hour)"
         }
       ]
     },
@@ -71013,6 +71759,36 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
         }
       ]
     },
@@ -74058,6 +74834,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Raid Day: Mega Sharpedo)"
         }
       ]
     },
@@ -83400,66 +84191,6 @@
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 3
-          },
-          "Type": 13,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Shadow Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 9
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 10
-          },
-          "Type": 13,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Shadow Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 16
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 17
-          },
-          "Type": 13,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Shadow Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 23
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 24
-          },
-          "Type": 13,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Shadow Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 30
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
             "D": 31
           },
           "Type": 13,
@@ -84873,6 +85604,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Five-Star Power Spot Boss (Dark Skies, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -85305,6 +86051,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Five-Star Power Spot Boss (Dark Skies, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -85558,7 +86319,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Primal Raid Boss (Pok\u00E9mon GO Wild Area: Global)"
+          "Comment": "Primal Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
         {
           "Start": {
@@ -85856,7 +86617,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Primal Raid Boss (Pok\u00E9mon GO Wild Area: Global)"
+          "Comment": "Primal Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
         {
           "Start": {
@@ -89332,6 +90093,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -89421,7 +90197,23 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, Day 1)"
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -91540,6 +92332,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -92272,6 +93079,21 @@
             "Y": 2024,
             "M": 10,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -93028,6 +93850,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -95073,7 +95910,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, Day 2)"
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 2)"
         }
       ]
     },
@@ -95276,6 +96113,21 @@
             "Y": 2025,
             "M": 1,
             "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -96230,6 +97082,36 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
         }
       ]
     },
@@ -96311,6 +97193,46 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ultra Unlock 2025: Origin Raid Day)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 22
+          },
+          "Shiny": 2,
+          "Type": 27,
+          "Comment": "Encounter: Origin Forme Dialga"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Raid Hour)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Raid Hour)"
         }
       ]
     },
@@ -96499,6 +97421,36 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
         }
       ]
     },
@@ -96580,6 +97532,46 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ultra Unlock 2025: Origin Raid Day)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 22
+          },
+          "Shiny": 2,
+          "Type": 27,
+          "Comment": "Encounter: Origin Forme Palkia"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Raid Hour)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Raid Hour)"
         }
       ]
     },
@@ -97614,6 +98606,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss (Pok\u00E9mon GO Wild Area 2025: Nagasaki)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss (Pok\u00E9mon GO Wild Area 2025: Global, Day 1)"
         }
       ]
     },
@@ -102610,7 +103632,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, Day 1)"
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 1)"
         }
       ]
     },
@@ -104860,6 +105882,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Lurking Dark Hour)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Lurking Dark Hour)"
         }
       ]
     },
@@ -106536,21 +107588,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 18
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -106860,6 +107897,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Might and Mastery (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Tales of Transformation (Southern Hemisphere)"
         }
       ]
     },
@@ -107296,6 +108348,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Might and Mastery (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Tales of Transformation (Northern Hemisphere)"
         }
       ]
     },
@@ -112007,6 +113074,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Instrumental Wonders)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Tales of Transformation)"
         }
       ]
     },
@@ -119880,6 +120962,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Anaheim 2025 Pok\u00E9mon World Championships"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Tales of Transformation)"
         }
       ]
     },
@@ -121571,6 +122669,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Global (Moonless Volcano)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Tales of Transformation)"
         }
       ]
     },
@@ -129710,6 +130823,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 26
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: Max Finale (Accidental Release)"
         }
       ]
     },
@@ -129757,8 +130885,33 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Gigantamax Journey"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 8,
-            "D": 24
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 23
           },
           "End": {
             "Y": 2025,
@@ -129768,7 +130921,7 @@
           "Shiny": 1,
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 2)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -129925,6 +131078,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 26
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: Max Finale (Accidental Release)"
         }
       ]
     },
@@ -129972,8 +131140,33 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Gigantamax Journey"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 8,
-            "D": 24
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 23
           },
           "End": {
             "Y": 2025,
@@ -129983,7 +131176,7 @@
           "Shiny": 1,
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 2)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -130108,6 +131301,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 26
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: Max Finale (Accidental Release)"
         }
       ]
     },
@@ -130155,18 +131363,43 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Gigantamax Journey"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 8,
             "D": 23
           },
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 23
+            "D": 24
           },
           "Shiny": 1,
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 1)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -130684,7 +131917,7 @@
           },
           "Type": 2,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area: Fukuoka"
+          "Comment": "Pok\u00E9mon GO Wild Area 2024: Fukuoka"
         }
       ]
     },
@@ -130705,7 +131938,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
         {
           "Start": {
@@ -130720,7 +131953,7 @@
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Three-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+          "Comment": "Four-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
         {
           "Start": {
@@ -130735,7 +131968,7 @@
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
         {
           "Start": {
@@ -130760,7 +131993,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global)"
+          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
         {
           "Start": {
@@ -130775,7 +132008,7 @@
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Three-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Global)"
+          "Comment": "Four-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
         {
           "Start": {
@@ -130790,7 +132023,21 @@
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Global)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
         },
         {
           "Start": {
@@ -130805,7 +132052,7 @@
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Three-Star Power Spot Boss (Dark Skies, Days 2 and 3)"
+          "Comment": "Four-Star Power Spot Boss (Dark Skies, Days 2 and 3)"
         },
         {
           "Start": {
@@ -130816,11 +132063,11 @@
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 23
+            "D": 24
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 1)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -130842,7 +132089,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
         {
           "Start": {
@@ -130857,7 +132104,7 @@
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Three-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+          "Comment": "Four-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
         {
           "Start": {
@@ -130872,7 +132119,7 @@
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
         {
           "Start": {
@@ -130897,7 +132144,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global)"
+          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
         {
           "Start": {
@@ -130912,7 +132159,7 @@
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Three-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Global)"
+          "Comment": "Four-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
         {
           "Start": {
@@ -130927,7 +132174,21 @@
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Global)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 62,
+          "Comment": "Six-Star Power Spot Boss (Dark Sky Emergence)"
         },
         {
           "Start": {
@@ -130942,13 +132203,13 @@
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Three-Star Power Spot Boss (Dark Skies, Days 2 and 3)"
+          "Comment": "Four-Star Power Spot Boss (Dark Skies, Days 2 and 3)"
         },
         {
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 24
+            "D": 23
           },
           "End": {
             "Y": 2025,
@@ -130957,7 +132218,7 @@
           },
           "Type": 62,
           "LocalizedStart": true,
-          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale, Day 2)"
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
         }
       ]
     },
@@ -131277,6 +132538,82 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Fanciful Fairy Hour)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2025: Nagasaki)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Fanciful Fairy Hour)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -131287,6 +132624,72 @@
     },
     {
       "Species": 858,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 859,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
+        }
+      ]
+    },
+    {
+      "Species": 860,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 861,
       "Available": true,
       "Data": []
     },
@@ -131568,6 +132971,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Fest 2025: Max Finale, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -131900,16 +133318,15 @@
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 18
+            "D": 15
           },
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 24
+            "D": 25
           },
           "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Dark Skies / Pok\u00E9mon GO Fest 2025: Max Finale)"
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -132116,16 +133533,15 @@
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 18
+            "D": 15
           },
           "End": {
             "Y": 2025,
             "M": 8,
-            "D": 24
+            "D": 25
           },
           "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Dark Skies / Pok\u00E9mon GO Fest 2025: Max Finale)"
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -132137,17 +133553,11 @@
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 23
-          },
-          "End": {
-            "Y": 2025,
-            "M": 8,
-            "D": 26
+            "D": 17
           },
           "Shiny": 1,
-          "Type": 27,
-          "LocalizedStart": true,
-          "Comment": "GO Pass: Max Finale"
+          "Type": 22,
+          "Comment": "Max Mystery Bonus Timed Research"
         }
       ]
     },
@@ -133837,8 +135247,7 @@
             "M": 8,
             "D": 25
           },
-          "Shiny": 1,
-          "Type": 1,
+          "Type": 20,
           "LocalizedStart": true,
           "Comment": "Sunkissed Shores Premium Timed Research"
         }
