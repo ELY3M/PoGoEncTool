@@ -3566,6 +3566,11 @@
             "M": 3,
             "D": 27
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -6294,6 +6299,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Sunkissed Shores)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Psychic Spectacular 2025: Taken Over)"
         }
       ]
     },
@@ -28481,6 +28501,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -29027,6 +29062,32 @@
             "Y": 2024,
             "M": 6,
             "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -31802,6 +31863,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -33466,6 +33542,21 @@
           "Type": 62,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -34855,6 +34946,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -35090,6 +35196,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -36461,6 +36582,21 @@
           "Type": 62,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -39689,6 +39825,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Arlo"
         }
       ]
     },
@@ -40020,6 +40171,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Cliff"
         }
       ]
     },
@@ -40506,6 +40672,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Sierra"
         }
       ]
     },
@@ -41099,6 +41280,11 @@
             "Y": 2025,
             "M": 5,
             "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
           },
           "Shiny": 1,
           "Type": 50,
@@ -44912,6 +45098,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Global, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -45231,6 +45433,22 @@
             "Y": 2024,
             "M": 11,
             "D": 4
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
           },
           "Shiny": 1,
           "Type": 10,
@@ -54201,6 +54419,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -60884,7 +61117,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Surprise Encounter (Became Kanto Celebration 2025 Wild Encounters)"
+          "Comment": "Surprise Encounter (Became Kanto First Partner Pok\u00E9mon)"
         },
         {
           "Start": {
@@ -77494,6 +77727,11 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -80040,6 +80278,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -84190,8 +84443,8 @@
           },
           "End": {
             "Y": 2025,
-            "M": 8,
-            "D": 31
+            "M": 9,
+            "D": 1
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -93526,6 +93779,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -97431,6 +97695,21 @@
           "End": {
             "Y": 2025,
             "M": 9,
+            "D": 2
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Delightful Days)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
             "D": 16
           },
           "Type": 10,
@@ -97995,6 +98274,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ancients Recovered, Days 4 and 5)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -98215,6 +98509,11 @@
             "Y": 2025,
             "M": 8,
             "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
           },
           "Shiny": 1,
           "Type": 50,
@@ -106207,6 +106506,20 @@
           "Start": {
             "Y": 2025,
             "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
             "D": 28
           },
           "End": {
@@ -106385,6 +106698,20 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO: Delightful Days"
         }
       ]
     },
@@ -111325,6 +111652,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -114817,6 +115159,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Psychic Spectacular 2025: Taken Over)"
         }
       ]
     },
@@ -116136,6 +116493,17 @@
           "Type": 27,
           "LocalizedStart": true,
           "Comment": "Legends: #0641"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Boss Giovanni"
         }
       ]
     },
@@ -118482,6 +118850,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -122673,6 +123052,20 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 10,
             "D": 25
           },
@@ -125098,6 +125491,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -125218,6 +125622,17 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "September 2023 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -126681,6 +127096,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Festival of Lights 2024)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -127958,6 +128388,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -129212,6 +129657,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Into the Wild)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Five-Star Raid Boss (Accidental Release)"
         }
       ]
     },
@@ -133040,6 +133501,39 @@
       ]
     },
     {
+      "Species": 876,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Psychic Spectacular 2025: Taken Over"
+        }
+      ]
+    },
+    {
+      "Species": 876,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Psychic Spectacular 2025: Taken Over"
+        }
+      ]
+    },
+    {
       "Species": 877,
       "Available": true,
       "Data": [
@@ -133987,6 +134481,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Psychic Spectacular 2025: Taken Over)"
         }
       ]
     },
