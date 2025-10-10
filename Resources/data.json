@@ -565,6 +565,21 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -1589,6 +1604,21 @@
             "Y": 2025,
             "M": 6,
             "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -2641,6 +2671,21 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -3096,6 +3141,21 @@
             "Y": 2025,
             "M": 6,
             "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -3575,6 +3635,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -5633,6 +5708,51 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 12
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Golden Goal Time with Pikachu, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Festival of Lights 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part II, No Costume)"
         }
       ]
     },
@@ -6867,6 +6987,21 @@
             "Y": 2025,
             "M": 7,
             "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -10828,6 +10963,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -11778,6 +11928,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Steel Skyline"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -12077,11 +12257,6 @@
             "M": 12,
             "D": 31
           },
-          "End": {
-            "Y": 2025,
-            "M": 9,
-            "D": 9
-          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Winter Holiday 2023: Part 2)"
@@ -12100,16 +12275,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 9,
-            "D": 14
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Returned to the Wild (After Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -13814,6 +13979,21 @@
             "M": 9,
             "D": 15
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -14575,6 +14755,21 @@
             "Y": 2025,
             "M": 6,
             "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -16089,6 +16284,22 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -17297,6 +17508,21 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 11,
             "D": 7
           },
@@ -17941,6 +18167,21 @@
             "Y": 2024,
             "M": 12,
             "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -18762,6 +19003,22 @@
             "Y": 2025,
             "M": 8,
             "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
           },
           "Shiny": 1,
           "Type": 10,
@@ -21040,6 +21297,21 @@
             "M": 5,
             "D": 26
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -21753,6 +22025,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Sweet Spooky World, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part II, No Costume)"
         }
       ]
     },
@@ -22457,6 +22759,16 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -22736,6 +23048,21 @@
             "Y": 2025,
             "M": 6,
             "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -23505,6 +23832,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Delightful Days (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -24626,6 +24968,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -25598,6 +25955,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Sunkissed Shores)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -28244,6 +28616,21 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
@@ -29205,6 +29592,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -30149,6 +30552,16 @@
             "Y": 2024,
             "M": 10,
             "D": 7
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -32740,6 +33153,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -33799,6 +34227,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 9th Anniversary Party, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -34645,6 +35088,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -34943,6 +35401,11 @@
             "M": 8,
             "D": 4
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -34961,6 +35424,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -35193,6 +35666,11 @@
             "M": 7,
             "D": 28
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -35211,6 +35689,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -35958,6 +36446,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -36593,6 +37091,21 @@
             "Y": 2025,
             "M": 9,
             "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -40491,6 +41004,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Powerful Potential"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -44139,7 +44667,24 @@
     {
       "Species": 188,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 189,
@@ -44251,6 +44796,11 @@
             "Y": 2025,
             "M": 8,
             "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -46808,6 +47358,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Amsterdam, Bangkok, Canc\u00FAn, Valencia, Vancouver 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Buenos Aires, Miami, Sydney 2025"
         }
       ]
     },
@@ -48951,6 +49516,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Buenos Aires, Miami, Sydney 2025"
         }
       ]
     },
@@ -50519,6 +51099,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Buenos Aires, Miami, Sydney 2025"
         }
       ]
     },
@@ -52402,6 +52997,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Arlo"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -52543,10 +53163,30 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -54982,6 +55622,11 @@
             "M": 6,
             "D": 30
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Two-Star Power Spot Boss"
@@ -55000,6 +55645,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -56546,9 +57201,34 @@
             "M": 2,
             "D": 16
           },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "First Debut in the Wild (Johto Region)"
+        },
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 7,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "First Debut in Pok\u00E9mon Eggs"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 5,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Field Research Tasks"
         },
         {
           "Start": {
@@ -56556,9 +57236,24 @@
             "M": 3,
             "D": 27
           },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Safari Zone: St. Louis 2020"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 27
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Field Research Tasks"
         },
         {
           "Start": {
@@ -56669,6 +57364,16 @@
         },
         {
           "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 16
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "December 2023 Community Day"
+        },
+        {
+          "Start": {
             "Y": 2024,
             "M": 1,
             "D": 27
@@ -56688,9 +57393,24 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Halloween 2025 Part II)"
         }
       ]
     },
@@ -59895,6 +60615,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -63080,6 +63815,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Cliff"
         }
       ]
     },
@@ -64535,6 +65280,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -65032,6 +65792,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -65293,6 +66068,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -65468,6 +66258,21 @@
             "Y": 2025,
             "M": 3,
             "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -65716,6 +66521,21 @@
           },
           "Type": 1,
           "Comment": "Hoenn Celebration"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -66068,6 +66888,21 @@
             "Y": 2025,
             "M": 1,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -66666,6 +67501,11 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
@@ -67224,6 +68064,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -67648,6 +68503,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -68666,6 +69531,22 @@
             "Y": 2024,
             "M": 6,
             "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
           },
           "Shiny": 1,
           "Type": 10,
@@ -71037,9 +71918,49 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -71996,6 +72917,36 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Steel Skyline"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 11,
             "D": 7
           },
@@ -72284,6 +73235,22 @@
             "Y": 2025,
             "M": 2,
             "D": 6
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
           },
           "Shiny": 1,
           "Type": 10,
@@ -75447,6 +76414,21 @@
             "M": 7,
             "D": 14
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Two-Star Power Spot Boss"
@@ -75797,6 +76779,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Mega Camerupt Raid Day)"
         }
       ]
     },
@@ -79027,6 +80024,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Sierra"
         }
       ]
     },
@@ -79604,6 +80611,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Holiday 2024 Part 2)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -81012,9 +82034,29 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -82803,6 +83845,16 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -83106,6 +84158,21 @@
             "Y": 2025,
             "M": 9,
             "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -83998,6 +85065,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Mega Metagross Raid Day)"
         }
       ]
     },
@@ -85872,6 +86954,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -87093,6 +88190,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Mega Rayquaza Special Raid Event)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Mega Rayquaza Raid Day)"
         }
       ]
     },
@@ -87333,6 +88445,36 @@
           "Type": 11,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Hoenn \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 41,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
         }
       ]
     },
@@ -87503,6 +88645,36 @@
           "Type": 41,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Dual Destiny)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 41,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
         }
       ]
     },
@@ -87704,6 +88876,36 @@
           "Type": 41,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Dual Destiny)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 41,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
         }
       ]
     },
@@ -87844,6 +89046,36 @@
           "Type": 11,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Hoenn \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 41,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
         }
       ]
     },
@@ -88783,6 +90015,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Halloween 2024 Part II)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part II, No Costume)"
         }
       ]
     },
@@ -90356,11 +91603,11 @@
           "End": {
             "Y": 2025,
             "M": 9,
-            "D": 14
+            "D": 16
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -90451,22 +91698,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 1)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 9,
-            "D": 9
-          },
-          "End": {
-            "Y": 2025,
-            "M": 9,
-            "D": 14
-          },
-          "Shiny": 1,
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -92295,6 +93526,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part II, No Costume)"
         }
       ]
     },
@@ -95863,6 +97110,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -98283,6 +99541,81 @@
           },
           "End": {
             "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 6
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 7
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 20
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 28
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
             "M": 10,
             "D": 1
           },
@@ -98519,6 +99852,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -98642,6 +99990,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 29
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Raid Hour)"
         }
       ]
     },
@@ -99948,6 +101311,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Final Strike: GO Battle Week"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -100778,6 +102156,11 @@
             "M": 5,
             "D": 26
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -100796,6 +102179,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -101876,6 +103269,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -102400,6 +103803,22 @@
             "Y": 2025,
             "M": 2,
             "D": 6
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
           },
           "Shiny": 1,
           "Type": 10,
@@ -103204,6 +104623,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Buenos Aires, Miami, Sydney 2025"
         }
       ]
     },
@@ -103906,6 +105340,11 @@
             "Y": 2025,
             "M": 8,
             "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
           },
           "Shiny": 1,
           "Type": 13,
@@ -104895,6 +106334,11 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Two-Star Power Spot Boss"
@@ -104928,6 +106372,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -106211,6 +107665,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Lurking Dark Hour)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Buenos Aires, Miami, Sydney 2025"
         }
       ]
     },
@@ -106530,6 +107999,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2025)"
         }
       ]
     },
@@ -106712,6 +108197,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -107003,6 +108503,21 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -107060,6 +108575,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 1
+          },
+          "Type": 62,
+          "LocalizedStart": true,
+          "Comment": "Six-Star Power Spot Boss (Gigantamax Garbodor Max Battle Day)"
         }
       ]
     },
@@ -107167,6 +108697,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Hisui Celebration Collection Challenges"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2025 Part I"
         }
       ]
     },
@@ -110421,6 +111967,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Instrumental Wonders)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -112914,6 +114475,21 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
@@ -115169,11 +116745,11 @@
           "End": {
             "Y": 2025,
             "M": 9,
-            "D": 21
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Psychic Spectacular 2025: Taken Over)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -118089,6 +119665,21 @@
           "Type": 11,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Road to Unova, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -118152,6 +119743,21 @@
           "Type": 28,
           "LocalizedStart": true,
           "Comment": "Road to Unova: Raids Timed Research"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -118215,6 +119821,21 @@
           "Type": 28,
           "LocalizedStart": true,
           "Comment": "Road to Unova: Raids Timed Research"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -121249,6 +122870,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -121341,6 +122977,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Anaheim 2025 Pok\u00E9mon World Championships"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         },
         {
           "Start": {
@@ -123386,6 +125038,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Young \u0026 Wise)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2025)"
         }
       ]
     },
@@ -124075,6 +125743,11 @@
             "M": 12,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
@@ -124082,11 +125755,48 @@
         },
         {
           "Start": {
+            "Y": 2020,
+            "M": 12,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Kalos Celebration Event"
+        },
+        {
+          "Start": {
+            "Y": 2021,
+            "M": 2,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Level 50 Challenge"
+        },
+        {
+          "Start": {
             "Y": 2022,
             "M": 10,
             "D": 20
           },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2022 Part I"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 10,
+            "D": 20
+          },
+          "Type": 2,
           "LocalizedStart": true,
           "Comment": "Halloween 2022 Part I"
         },
@@ -124104,6 +125814,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Four-Star Raid Boss (February 2023 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 5
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "February 2023 Community Day"
         },
         {
           "Start": {
@@ -124133,6 +125853,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Halloween 2025 Part II)"
         }
       ]
     },
@@ -125099,6 +126829,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: June"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -126924,6 +128669,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Amsterdam, Bangkok, Canc\u00FAn, Valencia, Vancouver 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Buenos Aires, Miami, Sydney 2025"
         }
       ]
     },
@@ -127310,7 +129070,24 @@
     {
       "Species": 760,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2025: Global, No Costume)"
+        }
+      ]
     },
     {
       "Species": 761,
@@ -127397,6 +129174,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 13
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -127671,6 +129458,11 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
@@ -127689,6 +129481,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -128549,6 +130351,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Osaka (Calming Tea House)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -131280,6 +133097,11 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -131299,6 +133121,17 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: Max Finale (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -131535,6 +133368,11 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -131554,6 +133392,17 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: Max Finale (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -131758,6 +133607,11 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -131777,6 +133631,17 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: Max Finale (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -131969,6 +133834,21 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -132054,6 +133934,11 @@
             "Y": 2025,
             "M": 5,
             "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
           },
           "Shiny": 1,
           "Type": 60,
@@ -132305,6 +134190,21 @@
             "Y": 2025,
             "M": 6,
             "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -132862,6 +134762,46 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Dark Skies)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2025 Part I"
         }
       ]
     },
@@ -132960,6 +134900,46 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Dark Skies)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2025 Part I / Pok\u00E9mon Spotlight Hour: Sinistea"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2025 Part I"
         }
       ]
     },
@@ -132995,6 +134975,11 @@
             "M": 6,
             "D": 16
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -133015,6 +135000,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         },
         {
           "Start": {
@@ -133384,6 +135380,11 @@
             "M": 5,
             "D": 26
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
@@ -133447,6 +135448,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -133595,6 +135606,37 @@
           "Type": 42,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Weekend: Delightful Days)"
+        }
+      ]
+    },
+    {
+      "Species": 884,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Power Spot Boss (Steel Skyline)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Steel Skyline"
         }
       ]
     },
@@ -134491,11 +136533,11 @@
           "End": {
             "Y": 2025,
             "M": 9,
-            "D": 21
+            "D": 30
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Psychic Spectacular 2025: Taken Over)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -135889,6 +137931,17 @@
       "Data": []
     },
     {
+      "Species": 982,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 982,
+      "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 983,
       "Available": true,
       "Data": []
@@ -136057,6 +138110,72 @@
     },
     {
       "Species": 1000,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 1011,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 1012,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025)"
+        }
+      ]
+    },
+    {
+      "Species": 1012,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025)"
+        }
+      ]
+    },
+    {
+      "Species": 1013,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 1013,
+      "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 1019,
       "Available": true,
       "Data": []
     }

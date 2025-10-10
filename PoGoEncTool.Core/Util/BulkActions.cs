@@ -148,7 +148,7 @@ public static class BulkActions
             if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM or PogoType.Research10 or PogoType.Research20 && z.Shiny == enc.Shiny && z.End == null))
             {
                 // some Legendary and Mythical Pokémon are exempt because one of their forms or pre-evolutions have been in research, and they revert or can be changed upon transfer to HOME
-                if (enc.Species is (int)Giratina or (int)Cosmoem or (int)Solgaleo or (int)Lunala)
+                if (enc.Species is (int)Giratina or (int)Genesect or (int)Cosmoem or (int)Solgaleo or (int)Lunala)
                     continue;
                 AddEncounterGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
             }
@@ -224,6 +224,7 @@ public static class BulkActions
         Charmander => 1,
         Squirtle => 1,
         Caterpie => 1,
+        Abra => 1,
         Machop => 2,
         Gastly => 1,
         Krabby => 1,
@@ -235,10 +236,12 @@ public static class BulkActions
         Wailmer => 2,
         Beldum => 3,
         Pidove => 1,
+        Woobat => 1,
         Drilbur => 1,
         Darumaka => 2,
         Trubbish => 1,
         Cryogonal => 3,
+        Bounsweet => 1,
         Passimian => 3,
         Grookey => 1,
         Scorbunny => 1,
@@ -249,6 +252,7 @@ public static class BulkActions
         Toxtricity => 4,
         Hatenna => 1,
         Falinks => 3,
+        Duraludon => 4,
         _ when IsSpecialPokemon(species) => 5,
         _ => throw new System.Exception("Species has not been released as a Dynamax Pokémon yet."),
     };
