@@ -580,6 +580,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -1619,6 +1634,21 @@
             "Y": 2025,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -2686,6 +2716,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -3157,6 +3202,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -3575,6 +3635,21 @@
             "Y": 2025,
             "M": 6,
             "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -10230,6 +10305,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Enchanted Hollow)"
         }
       ]
     },
@@ -11618,12 +11708,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -11639,51 +11729,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 9,
-            "D": 6
-          },
-          "End": {
-            "Y": 2025,
-            "M": 9,
-            "D": 21
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Sweet Spooky World"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 11,
-            "D": 7
-          },
-          "End": {
-            "Y": 2025,
-            "M": 11,
-            "D": 9
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Lurking Dark Hour)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 11,
-            "D": 15
-          },
-          "End": {
-            "Y": 2025,
-            "M": 11,
-            "D": 16
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Lurking Dark Hour)"
         }
       ]
     },
@@ -11908,11 +11953,11 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -11928,21 +11973,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 9,
-            "D": 30
-          },
-          "End": {
-            "Y": 2025,
-            "M": 10,
-            "D": 7
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Steel Skyline"
         },
         {
           "Start": {
@@ -13994,6 +14024,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -14771,6 +14816,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Two-Star Power Spot Boss"
@@ -15528,7 +15588,7 @@
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Into the Wild)"
+          "Comment": "Three-Star Raid Boss (Into the Wild 2024)"
         }
       ]
     },
@@ -16279,6 +16339,11 @@
             "Y": 2024,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
           },
           "Shiny": 1,
           "Type": 50,
@@ -17483,12 +17548,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -17519,36 +17584,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 11,
-            "D": 7
-          },
-          "End": {
-            "Y": 2025,
-            "M": 11,
-            "D": 9
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Fanciful Fairy Hour)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 11,
-            "D": 15
-          },
-          "End": {
-            "Y": 2025,
-            "M": 11,
-            "D": 16
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Fanciful Fairy Hour)"
         }
       ]
     },
@@ -19360,11 +19395,11 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -21312,6 +21347,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -21416,7 +21466,7 @@
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Into the Wild)"
+          "Comment": "Three-Star Raid Boss (Into the Wild 2024)"
         }
       ]
     },
@@ -23064,6 +23114,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -23826,12 +23891,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Delightful Days (Northern Hemisphere)"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -24947,6 +25012,11 @@
           "Start": {
             "Y": 2025,
             "M": 1,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
             "D": 15
           },
           "Shiny": 1,
@@ -28631,6 +28701,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
@@ -32291,6 +32376,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -34242,6 +34342,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -35431,6 +35541,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -35695,6 +35820,21 @@
             "Y": 2025,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -36456,6 +36596,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -39340,6 +39495,11 @@
             "Y": 2024,
             "M": 1,
             "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
           },
           "Type": 50,
           "LocalizedStart": true,
@@ -43402,7 +43562,7 @@
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Into the Wild)"
+          "Comment": "Three-Star Raid Boss (Into the Wild 2024)"
         }
       ]
     },
@@ -43571,6 +43731,21 @@
             "Y": 2025,
             "M": 8,
             "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -54755,6 +54930,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -55652,6 +55838,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Two-Star Power Spot Boss"
@@ -55754,6 +55955,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Sparring Partners Raid Day)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -57167,12 +57383,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Might and Mastery / Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Might and Mastery / Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -59276,11 +59492,11 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         }
       ]
     },
@@ -61330,6 +61546,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Enchanted Hollow)"
         }
       ]
     },
@@ -62715,6 +62946,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Five-Star Power Spot Boss (Dark Skies, Days 4 and 5)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -63101,6 +63347,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Five-Star Power Spot Boss (Dark Skies, Days 4 and 5)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -63500,6 +63761,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Five-Star Power Spot Boss (Dark Skies, Days 4 and 5)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -64426,6 +64702,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -64677,6 +64968,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss (Into the Wild 2025, Day 1)"
         }
       ]
     },
@@ -64928,6 +65234,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss (Into the Wild 2025, Day 1)"
         }
       ]
     },
@@ -68513,6 +68834,16 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -70069,32 +70400,17 @@
         {
           "Start": {
             "Y": 2025,
-            "M": 11,
-            "D": 7
+            "M": 9,
+            "D": 2
           },
           "End": {
             "Y": 2025,
-            "M": 11,
-            "D": 9
+            "M": 12,
+            "D": 2
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Lurking Dark Hour)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 11,
-            "D": 15
-          },
-          "End": {
-            "Y": 2025,
-            "M": 11,
-            "D": 16
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Lurking Dark Hour)"
+          "Comment": "Pok\u00E9mon GO: Tales of Transformation"
         }
       ]
     },
@@ -71961,6 +72277,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -74327,6 +74653,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -74811,6 +75152,21 @@
             "Y": 2025,
             "M": 6,
             "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -76428,6 +76784,21 @@
             "Y": 2025,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -78153,6 +78524,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -78245,6 +78627,21 @@
             "Y": 2025,
             "M": 6,
             "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 18
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -79187,6 +79584,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -84590,6 +84998,11 @@
             "M": 6,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
@@ -84608,6 +85021,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Instrumental Wonders)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -87416,6 +87839,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -90582,6 +91020,11 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -91645,7 +92088,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Into the Wild"
+          "Comment": "Into the Wild 2024"
         }
       ]
     },
@@ -91955,6 +92398,11 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -92119,6 +92567,11 @@
             "Y": 2024,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
           },
           "Shiny": 1,
           "Type": 50,
@@ -92903,6 +93356,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -95033,6 +95501,11 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -95129,6 +95602,21 @@
             "Y": 2025,
             "M": 3,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -95356,11 +95844,11 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -99350,6 +99838,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -102186,6 +102689,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -103276,6 +103794,21 @@
             "M": 10,
             "D": 27
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -103623,6 +104156,21 @@
             "Y": 2025,
             "M": 6,
             "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -105193,7 +105741,24 @@
     {
       "Species": 542,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Enchanted Hollow)"
+        }
+      ]
     },
     {
       "Species": 543,
@@ -105371,6 +105936,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Enchanted Hollow)"
         }
       ]
     },
@@ -105574,6 +106155,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -105753,6 +106350,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Raid Day: Hisuian Lilligant)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -106378,6 +106990,21 @@
             "Y": 2025,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -107629,42 +108256,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 11,
-            "D": 7
-          },
-          "End": {
-            "Y": 2025,
-            "M": 11,
-            "D": 9
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Lurking Dark Hour)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 11,
-            "D": 15
-          },
-          "End": {
-            "Y": 2025,
-            "M": 11,
-            "D": 16
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Lurking Dark Hour)"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -107979,11 +108576,11 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -108192,11 +108789,11 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -108477,6 +109074,11 @@
             "M": 1,
             "D": 15
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -108517,6 +109119,21 @@
             "Y": 2025,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -111977,7 +112594,7 @@
           "End": {
             "Y": 2025,
             "M": 10,
-            "D": 14
+            "D": 21
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -114490,6 +115107,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
@@ -114969,14 +115601,9 @@
             "M": 12,
             "D": 3
           },
-          "End": {
-            "Y": 2025,
-            "M": 9,
-            "D": 2
-          },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Dual Destiny / Might and Mastery / Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Dual Destiny"
         },
         {
           "Start": {
@@ -114992,21 +115619,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Instrumental Wonders)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 10,
-            "D": 25
-          },
-          "End": {
-            "Y": 2025,
-            "M": 12,
-            "D": 2
-          },
-          "Type": 42,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Weekend: Tales of Transformation)"
         }
       ]
     },
@@ -117140,6 +117752,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -117453,6 +118076,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -117674,6 +118312,21 @@
             "Y": 2025,
             "M": 7,
             "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -117913,6 +118566,21 @@
             "Y": 2025,
             "M": 8,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -121867,11 +122535,26 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -123372,6 +124055,11 @@
             "M": 5,
             "D": 14
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -123391,6 +124079,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -124709,26 +125422,11 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
-            "D": 2
-          },
-          "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 10,
-            "D": 25
-          },
-          "End": {
-            "Y": 2025,
             "M": 12,
             "D": 2
           },
-          "Type": 42,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Weekend: Tales of Transformation)"
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         }
       ]
     },
@@ -125195,7 +125893,7 @@
             "D": 2
           },
           "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         }
       ]
     },
@@ -125286,6 +125984,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Max Out / Dual Destiny"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         }
       ]
     },
@@ -125365,6 +126077,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Max Out / Dual Destiny"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         }
       ]
     },
@@ -125444,6 +126170,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Max Out / Dual Destiny"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         }
       ]
     },
@@ -126844,6 +127584,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -127447,7 +128202,7 @@
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Into the Wild)"
+          "Comment": "Three-Star Raid Boss (Into the Wild 2024)"
         },
         {
           "Start": {
@@ -129181,6 +129936,21 @@
             "M": 10,
             "D": 13
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -129475,18 +130245,33 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
             "Y": 2025,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -130366,6 +131151,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Enchanted Hollow)"
         }
       ]
     },
@@ -130712,7 +131512,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Into the Wild)"
+          "Comment": "Five-Star Raid Boss (Into the Wild 2024)"
         },
         {
           "Start": {
@@ -130743,6 +131543,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Might and Mastery)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Into the Wild 2025, Day 2)"
         }
       ]
     },
@@ -130887,6 +131702,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Might and Mastery)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Into the Wild 2025, Day 2)"
         }
       ]
     },
@@ -131031,6 +131861,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Into the Wild 2025, Day 4)"
         }
       ]
     },
@@ -131159,6 +132004,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Might and Mastery)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Into the Wild 2025, Day 4)"
         }
       ]
     },
@@ -131473,7 +132333,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Into the Wild)"
+          "Comment": "Five-Star Raid Boss (Into the Wild 2024)"
         },
         {
           "Start": {
@@ -132435,6 +133295,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 12
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Into the Wild 2025, Days 3 and 5)"
         }
       ]
     },
@@ -133128,6 +134003,22 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -133399,6 +134290,22 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -133638,6 +134545,22 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -133849,6 +134772,21 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -133951,6 +134889,21 @@
             "M": 7,
             "D": 22
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2025: Steel and Scales"
@@ -133958,8 +134911,8 @@
         {
           "Start": {
             "Y": 2025,
-            "M": 7,
-            "D": 22
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -134045,6 +134998,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Spring into Spring 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -134205,6 +135174,21 @@
             "Y": 2025,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -134429,6 +135413,21 @@
           "Type": 62,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 23
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Power Spot Boss"
         }
       ]
     },
@@ -134580,6 +135579,21 @@
           "Type": 62,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 23
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Power Spot Boss"
         }
       ]
     },
@@ -134638,12 +135652,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 9,
+            "M": 12,
             "D": 2
           },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Pok\u00E9mon GO: Delightful Days"
+          "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
         },
         {
           "Start": {
@@ -135006,6 +136020,11 @@
             "Y": 2025,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
           },
           "Shiny": 1,
           "Type": 60,
@@ -135454,6 +136473,21 @@
             "Y": 2025,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -136927,6 +137961,44 @@
     {
       "Species": 916,
       "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 917,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Enchanted Hollow)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Enchanted Hollow"
+        }
+      ]
+    },
+    {
+      "Species": 918,
       "Available": true,
       "Data": []
     },
