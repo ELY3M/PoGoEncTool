@@ -21360,6 +21360,21 @@
           "Start": {
             "Y": 2025,
             "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
             "D": 15
           },
           "Type": 60,
@@ -26040,6 +26055,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -41179,6 +41209,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -44831,6 +44876,11 @@
             "Y": 2024,
             "M": 10,
             "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
           },
           "Shiny": 1,
           "Type": 50,
@@ -57020,6 +57070,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Crown Clash)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -59023,7 +59088,7 @@
           },
           "Type": 20,
           "LocalizedStart": true,
-          "Comment": "GO Pass Deluxe: April / May"
+          "Comment": "GO Pass Deluxe: April / May 2025"
         },
         {
           "Start": {
@@ -101829,6 +101894,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -106365,6 +106445,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 4
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: November 2025"
         }
       ]
     },
@@ -108612,6 +108707,17 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss (Halloween 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -108809,6 +108915,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -116478,6 +116599,11 @@
             "Y": 2024,
             "M": 1,
             "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
           },
           "Shiny": 1,
           "Type": 50,
@@ -125752,6 +125878,17 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss (Halloween 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -126841,7 +126978,7 @@
           },
           "Type": 20,
           "LocalizedStart": true,
-          "Comment": "GO Pass: April"
+          "Comment": "GO Pass: April 2025"
         }
       ]
     },
@@ -127074,7 +127211,7 @@
           },
           "Type": 20,
           "LocalizedStart": true,
-          "Comment": "GO Pass: May"
+          "Comment": "GO Pass: May 2025"
         }
       ]
     },
@@ -127568,7 +127705,7 @@
           },
           "Type": 20,
           "LocalizedStart": true,
-          "Comment": "GO Pass Deluxe: June"
+          "Comment": "GO Pass Deluxe: June 2025"
         },
         {
           "Start": {
@@ -129673,7 +129810,7 @@
           },
           "Type": 20,
           "LocalizedStart": true,
-          "Comment": "GO Pass Deluxe: May"
+          "Comment": "GO Pass Deluxe: May 2025"
         },
         {
           "Start": {
@@ -135801,11 +135938,11 @@
           "End": {
             "Y": 2025,
             "M": 11,
-            "D": 2
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Halloween 2025)"
+          "Comment": "One-Star Raid Boss"
         },
         {
           "Start": {
@@ -135923,12 +136060,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 27
+            "M": 11,
+            "D": 2
           },
-          "Type": 10,
+          "Type": 1,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+          "Comment": "Halloween 2025"
         },
         {
           "Start": {
@@ -135938,12 +136075,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 28
+            "M": 11,
+            "D": 4
           },
-          "Type": 1,
+          "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Halloween 2025 Part I / Pok\u00E9mon Spotlight Hour: Sinistea"
+          "Comment": "One-Star Raid Boss"
         },
         {
           "Start": {
@@ -136640,6 +136777,16 @@
           "Type": 42,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Weekend: Delightful Days)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 18
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "High Voltage"
         }
       ]
     },
