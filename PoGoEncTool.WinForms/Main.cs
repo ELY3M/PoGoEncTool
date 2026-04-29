@@ -24,10 +24,17 @@ public partial class Main : Form
 
     public Main()
     {
+        Entries = DataLoader.GetData(Application.StartupPath, out Settings);
+        if (Settings.IsDarkMode)
+            Application.SetColorMode(SystemColorMode.Dark);
+
         InitializeComponent();
         SpriteUtil.ChangeMode(SpriteBuilderMode.SpritesArtwork5668);
+        SpriteName.AllowShinySprite = true;
 
-        Entries = DataLoader.GetData(Application.StartupPath, out Settings);
+        if (Application.IsDarkModeEnabled)
+            ReformatDark(Controls);
+
         // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Core.PogoType.Shadow);
         // BulkActions.AddBossEncounters(Entries);
         // BulkActions.AddNewShadows(Entries);
@@ -35,6 +42,21 @@ public partial class Main : Form
 
         LoadEntries();
         InitializeDataSources();
+    }
+
+    private static void ReformatDark(Control.ControlCollection controls)
+    {
+        foreach (Control control in controls)
+        {
+            ReformatDark(control.Controls);
+
+            if (control is ListBox lb)
+                lb.BorderStyle = BorderStyle.None;
+            else if (control is Button b)
+                b.FlatStyle = FlatStyle.Popup;
+            else if (control is TextBoxBase t)
+                t.BorderStyle = BorderStyle.None;
+        }
     }
 
     private void InitializeDataSources()
@@ -62,7 +84,8 @@ public partial class Main : Form
             return;
 
         System.Media.SystemSounds.Asterisk.Play();
-        var prompt = WinFormsUtil.Prompt(MessageBoxButtons.YesNo, $"Changes were last saved {delta:g} ago. Are you sure you want to exit?");
+        var formatted = string.Format("{0:%h}h {0:%m}m {0:%s}.{0:ff}s", delta);
+        var prompt = WinFormsUtil.Prompt(MessageBoxButtons.YesNo, $"Changes were last saved {formatted} ago. Are you sure you want to exit?");
         if (prompt != DialogResult.Yes)
             e.Cancel = true;
     }
@@ -111,7 +134,7 @@ public partial class Main : Form
         var prefer = species switch
         {
           //(ushort)Species.Minior => 7,
-            (ushort)Species.Gimmighoul => 1,
+            (ushort)Species.Gimmighoul => 1, // GO is always Roaming Form
             _ => 0,
         };
         CB_Form.Items.Clear();
@@ -165,8 +188,8 @@ public partial class Main : Form
     private void LoadEntry(PogoEntry entry, ushort species, byte form)
     {
         var comment = entry.Comment;
-        if (comment.StartsWith("Mega Raid Boss") || comment.StartsWith("Primal Raid Boss") || comment.Contains("Elite Raid: Mega"))
-            form = GetMegaFormIndex(comment, species);
+        if (comment.StartsWith("Mega Raid Boss") || comment.StartsWith("Super Mega Raid Boss") || comment.StartsWith("Primal Raid Boss") || comment.Contains("Elite Raid: Mega"))
+            form = GetMegaFormIndex(comment, species, form);
 
         if (!pogoRow1.Visible)
             form = (byte)CB_Form.SelectedIndex;
@@ -178,19 +201,29 @@ public partial class Main : Form
         pogoRow1.LoadEntry(CurrentEntry = entry);
     }
 
-    private byte GetMegaFormIndex(string comment, ushort species)
+    private static byte GetMegaFormIndex(string comment, ushort species, byte form)
     {
+        // Mega X, Mega Y
         if (species is (int)Species.Charizard or (int)Species.Raichu or (int)Species.Mewtwo)
         {
-            var shift = species is (int)Species.Raichu ? 1 : 0;
+            var shift = species == (int)Species.Raichu ? 1 : 0;
             return comment.Contains($"Mega {(Species)species} Y") ? (byte)(shift + 2) : (byte)(shift + 1);
+        }
+
+        // Mega Z
+        if (species is (int)Species.Absol or (int)Species.Garchomp or (int)Species.Lucario)
+        {
+            return comment.Contains($"Mega {(Species)species} Z") ? (byte)2 : (byte)1;
         }
 
         return species switch
         {
             (int)Species.Greninja => 3,
             (int)Species.Floette => 6,
+            (int)Species.Meowstic => (byte)(form + 2),
             (int)Species.Zygarde => 5,
+            (int)Species.Magearna => (byte)(form + 2),
+            (int)Species.Tatsugiri => (byte)(form + 3),
             _ => 1,
         };
     }
@@ -359,7 +392,7 @@ public partial class Main : Form
                 if (!current.Data.Any(z => z.Comment.Contains(filter)))
                     continue;
 
-                var form = f == 0 ? string.Empty : $"-{f} ({forms[f]})";
+                var form = forms.Length == 1 ? string.Empty : f == 0 ? $" ({forms[f]})" : $"-{f} ({forms[f]})";
                 var name = $"{i:0000} {names[current.Species]}{form}";
                 list.Add(name);
 
@@ -387,16 +420,15 @@ public partial class Main : Form
 
                     var method = (int)enc.Type switch
                     {
-                        1 => "Wild",
-                        2 => "Egg",
-                        3 => "Strange Egg",
-                        10 or 11 or 12 => "Raid",
-                        13 => "Shadow Raid",
-                        >= 20 and <= 39 or 200 or 201 => "Research",
-                        40 or 41 => "GO Battle League",
-                        42 => "GO Battle Day",
-                        50 => "Shadow",
-                        >= 60 and <= 69 => "Max Battle",
+                        1 or 2 or 3 => "Wild",
+                        4 => "Egg",
+                        5 => "12 km Egg",
+                        10 or 11 or 12 or 15 or 16 or 17 => "Raid",
+                        13 or 14 or 18 or 19 => "Shadow Raid",
+                        (>= 20 and <= 89) or 254 or 255 => "Research",
+                        >= 90 and <= 99 => "GO Battle League",
+                        >= 100 and <= 109 => "Shadow",
+                        >= 110 and <= 119 => "Max Battle",
                         _ => throw new Exception("Invalid PogoType"),
                     };
 
@@ -411,6 +443,16 @@ public partial class Main : Form
 
         var path = Path.Combine(Directory.GetCurrentDirectory(), "encounter_dump.txt");
         File.WriteAllLines(path, list);
+
+        // start explorer process
+        var psi = new ProcessStartInfo
+        {
+            FileName = "explorer.exe",
+            Arguments = $"/select,\"{path}\"",
+            UseShellExecute = true,
+        };
+        Process.Start(psi);
+
         System.Media.SystemSounds.Asterisk.Play();
     }
 }
