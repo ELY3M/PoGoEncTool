@@ -9062,6 +9062,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Valentine\u0027s Day 2026, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -13331,6 +13346,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -27340,6 +27370,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (D\u00EDa de Muertos 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -40093,6 +40138,11 @@
             "M": 3,
             "D": 3
           },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 29
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
@@ -40111,6 +40161,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 30
+          },
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Cliff"
         }
       ]
     },
@@ -42714,6 +42774,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -43561,6 +43636,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2026: Copenhagen)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Super Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Global)"
         }
       ]
     },
@@ -51075,6 +51165,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -51326,6 +51431,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -51486,6 +51606,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -51823,6 +51958,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -52149,6 +52299,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -52279,6 +52444,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -52558,6 +52738,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -52876,6 +53071,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -53288,6 +53498,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -53403,6 +53628,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -53514,6 +53754,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -53854,6 +54109,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -54028,6 +54298,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -54423,6 +54708,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -54865,6 +55165,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -55052,6 +55367,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -55138,6 +55468,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -55508,6 +55853,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -55955,6 +56315,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -56369,6 +56744,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -56770,6 +57160,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -56915,6 +57320,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -57031,6 +57451,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -57160,6 +57595,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -57349,6 +57799,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -57450,6 +57915,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -57713,6 +58193,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -57882,6 +58377,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         }
       ]
     },
@@ -58917,6 +59427,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 30
+          },
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Arlo"
         }
       ]
     },
@@ -60628,6 +61148,21 @@
             "Y": 2025,
             "M": 9,
             "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 28
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -65721,6 +66256,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -80864,6 +81429,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -81235,6 +81815,21 @@
             "Y": 2025,
             "M": 12,
             "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 28
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -88723,9 +89318,24 @@
             "M": 3,
             "D": 3
           },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 29
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 30
+          },
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Sierra"
         }
       ]
     },
@@ -92514,6 +93124,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Steeled Resolve 2026)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -103503,6 +104128,21 @@
             "Y": 2025,
             "M": 8,
             "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -123884,6 +124524,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -143541,6 +144196,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -145282,6 +145952,22 @@
           "Start": {
             "Y": 2026,
             "M": 5,
+            "D": 3
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Five-Star Raid Boss (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
             "D": 6
           },
           "End": {
@@ -146876,7 +147562,7 @@
           "Shiny": 1,
           "Type": 41,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2026: Tokyo"
+          "Comment": "Pok\u00E9mon GO Fest 2026: A Thunderous Discovery in Tokyo!"
         }
       ]
     },
@@ -150308,6 +150994,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Super Mega Raid Boss (Falinks Super Mega Raid Day)"
         }
       ]
     },
@@ -150588,6 +151289,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -152861,6 +153577,28 @@
       ]
     },
     {
+      "Species": 955,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 4,
+          "LocalizedStart": true,
+          "Comment": "Spring Marathon"
+        }
+      ]
+    },
+    {
+      "Species": 956,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 957,
       "Available": true,
       "Data": [
@@ -153389,6 +154127,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Steeled Resolve 2026)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 4
+          },
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: May 2026"
         }
       ]
     },
@@ -154238,6 +154991,22 @@
           "Type": 29,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: April 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 12
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: May 2026"
         }
       ]
     },
@@ -154357,6 +155126,22 @@
           "Type": 29,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: April 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 12
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: May 2026"
         }
       ]
     },
