@@ -6589,6 +6589,20 @@
           },
           "Type": 10,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Night 2026: Boston Red Sox)"
+        },
+        {
+          "Start": {
+            "Y": 2027,
+            "M": 4,
+            "D": 11
+          },
+          "End": {
+            "Y": 2027,
+            "M": 4,
+            "D": 11
+          },
+          "Type": 10,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Fossil Museum \u2013 Chicago, No Costume)"
         }
       ]
     },
@@ -35390,7 +35404,6 @@
             "D": 4
           },
           "Type": 24,
-          "LocalizedStart": true,
           "Comment": "Lure Up!"
         }
       ]
@@ -35466,7 +35479,7 @@
           },
           "Type": 24,
           "LocalizedStart": true,
-          "Comment": "Lure Up!"
+          "Comment": "GO Fest 2026: Tokyo \u2013 Act 1"
         }
       ]
     },
@@ -39723,7 +39736,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon Fossil Museum: Tokushima 2025)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon Fossil Museum \u2013 Tokushima)"
         },
         {
           "Start": {
@@ -39758,17 +39771,16 @@
         {
           "Start": {
             "Y": 2026,
-            "M": 7,
-            "D": 11
+            "M": 5,
+            "D": 22
           },
           "End": {
-            "Y": 2026,
-            "M": 7,
+            "Y": 2027,
+            "M": 4,
             "D": 11
           },
           "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 1)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon Fossil Museum \u2013 Chicago)"
         }
       ]
     },
@@ -108971,6 +108983,22 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2022: Sapporo Makeup Event)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 29
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2026: Tokyo)"
         }
       ]
     },
@@ -151389,6 +151417,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "August 2026 Community Day"
         }
       ]
     },
