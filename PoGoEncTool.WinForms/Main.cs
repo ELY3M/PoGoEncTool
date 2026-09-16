@@ -40,6 +40,7 @@ public partial class Main : Form
         // BulkActions.AddBossEncounters(Entries);
         // BulkActions.AddNewShadows(Entries);
         // BulkActions.AddMonthlyRaidBosses(Entries);
+        // BulkActions.AddLegendaryEncountersGBL(Entries);
 
         LoadEntries();
         InitializeDataSources();
@@ -189,7 +190,7 @@ public partial class Main : Form
     private void LoadEntry(PogoEntry entry, ushort species, byte form)
     {
         var comment = entry.Comment;
-        if (comment.StartsWith("Mega Raid Boss") || comment.StartsWith("Super Mega Raid Boss") || comment.StartsWith("Primal Raid Boss") || comment.Contains("Elite Raid: Mega"))
+        if (comment.StartsWith("Mega Raid Boss") || comment.StartsWith("Super Mega Raid Boss") || comment.StartsWith("Primal Raid Boss") || comment.Contains("Elite Raid: Mega") || comment.StartsWith("Unity Raid Boss"))
             form = GetMegaFormIndex(comment, species, form);
 
         if (!pogoRow1.Visible)
