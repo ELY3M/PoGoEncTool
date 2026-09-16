@@ -31,7 +31,10 @@ jobs:
       working-directory: ${{env.GITHUB_WORKSPACE}}
       # Add additional options to the MSBuild command line here (like platform or verbosity level).
       # See https://docs.microsoft.com/visualstudio/msbuild/msbuild-command-line-reference
-      run: dotnet publish . -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:EnableWindowsTargeting=true
+      run: | 
+        dotnet build . -c Release -r win-x64 -p:EnableWindowsTargeting=true
+        dotnet publish ${{ github.workspace }}/PoGoEncTool.WinForms/PoGoEncTool.WinForms.csproj -c Release -p:EnableWindowsTargeting=true -r win-x64 --self-contained true -p:PublishSingleFile=true -p:ImportByWildcardBeforeSolution=false -o ./publish
+         
       
     - name: Create Release
       uses: actions/create-release@latest
@@ -47,7 +50,7 @@ jobs:
     ###zip -r ${{ github.workspace }}/linux-release.zip .
     - name: Zipping up Release folder
       run: | 
-        cd ${{ github.workspace }}/PoGoEncTool.WinForms/bin/Release/net10.0-windows/win-x64/publish/  
+        cd ${{ github.workspace }}/publish/  
         zip -r ${{ github.workspace }}/PoGoEncTool-release.zip .
 
              
