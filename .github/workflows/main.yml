@@ -48,10 +48,10 @@ jobs:
         body: ${{ github.event.head_commit.message }}
 
     ###zip -r ${{ github.workspace }}/linux-release.zip .
-    - name: Zipping up Release folder
-      run: | 
-        cd ${{ github.workspace }}/publish/  
-        zip -r ${{ github.workspace }}/PoGoEncTool-release.zip .
+    # - name: Zipping up Release folder
+      # run: | 
+        # cd ${{ github.workspace }}/publish/  
+        # zip -r ${{ github.workspace }}/PoGoEncTool-release.zip .
 
              
     - name: Upload Release
@@ -61,7 +61,7 @@ jobs:
         prerelease: false    
         tag_name: ${{ github.run_number }}
         body: ${{ github.event.head_commit.message }}
-        files: ${{ github.workspace }}/PoGoEncTool-release.zip
+        files: ${{ github.workspace }}/publish/PoGoEncTool.WinForms.exe
       env:
         GITHUB_TOKEN: ${{ github.token }}
         
