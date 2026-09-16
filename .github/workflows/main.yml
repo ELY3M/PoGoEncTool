@@ -47,7 +47,7 @@ jobs:
     ###zip -r ${{ github.workspace }}/linux-release.zip .
     - name: Zipping up Release folder
       run: | 
-        cd ${{ github.workspace }}/PoGoEncTool.WinForms/bin/Release/net10.0-windows/publish/  
+        cd ${{ github.workspace }}/PoGoEncTool.WinForms/bin/Release/net10.0-windows/win-x64/publish/  
         zip -r ${{ github.workspace }}/PoGoEncTool-release.zip .
 
              
