@@ -31,7 +31,7 @@ jobs:
       working-directory: ${{env.GITHUB_WORKSPACE}}
       # Add additional options to the MSBuild command line here (like platform or verbosity level).
       # See https://docs.microsoft.com/visualstudio/msbuild/msbuild-command-line-reference
-      run: dotnet publish . --configuration Release -p:EnableWindowsTargeting=true
+      run: dotnet publish . -c Release -r win-x64 -p:EnableWindowsTargeting=true
       
     - name: Create Release
       uses: actions/create-release@latest
