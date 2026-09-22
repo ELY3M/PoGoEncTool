@@ -1,18 +1,46 @@
 using System;
+using System.ComponentModel;
 
 namespace PoGoEncTool.Core;
 
 [Serializable]
 public sealed record PogoEntry : IComparable<PogoEntry>
 {
-    public PogoDate? Start { get; set; }
-    public PogoDate? End { get; set; }
-    public PogoShiny Shiny { get; set; }
-    public PogoGender Gender { get; set; }
-    public PogoType Type { get; set; }
-    public bool LocalizedStart { get; set; }
-    public bool NoEndTolerance { get; set; }
-    public string Comment { get; set; } = string.Empty;
+    [Category("Dates")] public PogoDate? Start { get; set; }
+    [Category("Dates")] public bool LocalizedStart { get; set; }
+    [Category("Dates")] public PogoDate? End { get; set; }
+    [Category("Dates")] public bool HasEndTolerance { get; set; }
+
+    [Category("Detail")] public PogoShiny Shiny { get; set; }
+    [Category("Detail")] public PogoGender Gender { get; set; }
+    [Category("Detail")] public PogoType Type { get; set; }
+    [Category("Detail")] public byte? MinIV { get; set; }
+    [Category("Detail")] public byte? MinLevel { get; set; } = 1;
+    [Category("Detail")] public PogoBallRestriction? BallRestriction { get; set; } = PogoBallRestriction.Poke_Great_Ultra_Master;
+    [Category("Detail")] public bool IsGigantamax { get; set; }
+    [Category("Detail")] public bool IsFeaturedGOWildArea { get; set; }
+
+    // last property
+    [Category("Misc")] public string Comment { get; set; } = string.Empty;
+
+    public void CopyTo(PogoEntry other)
+    {
+        other.Start = Start;
+        other.LocalizedStart = LocalizedStart;
+        other.End = End;
+        other.HasEndTolerance = HasEndTolerance;
+
+        other.Shiny = Shiny;
+        other.Gender = Gender;
+        other.Type = Type;
+        other.MinIV = MinIV;
+        other.MinLevel = MinLevel;
+        other.BallRestriction = BallRestriction;
+        other.IsGigantamax = IsGigantamax;
+        other.IsFeaturedGOWildArea = IsFeaturedGOWildArea;
+
+        other.Comment = Comment;
+    }
 
     public static PogoEntry CreateNew() => new()
     {
@@ -22,6 +50,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         Gender = PogoGender.Random,
         Type = PogoType.Wild,
         LocalizedStart = true,
+        HasEndTolerance = true,
     };
 
     public override string ToString()
@@ -89,5 +118,117 @@ public sealed record PogoEntry : IComparable<PogoEntry>
     public void Clear()
     {
         Type = PogoType.None; // marked for removal, don't bother clearing other fields
+    }
+
+    public bool InitializeDefaultsForType(PogoType newType)
+    {
+        if (newType is PogoType.Egg)
+        {
+            MinIV = 1;
+            BallRestriction = PogoBallRestriction.OnlyPoke;
+            return true;
+        }
+
+        if (newType is PogoType.Egg12km)
+        {
+            MinIV = 1;
+            MinLevel = 8;
+            BallRestriction = PogoBallRestriction.OnlyPoke;
+            return true;
+        }
+
+        if (newType is PogoType.Raid or PogoType.RaidShadow or PogoType.MaxBattle or PogoType.MaxBattleGigantamax)
+        {
+            MinIV = 1;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+
+            if (newType is PogoType.MaxBattleGigantamax)
+                IsGigantamax = true;
+
+            return true;
+        }
+
+        if (newType is PogoType.RaidMythical or PogoType.MaxBattleMythical)
+        {
+            MinIV = 10;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+            return true;
+        }
+
+        if (newType is PogoType.RaidUltraBeast or PogoType.RaidShadowUltraBeast or PogoType.MaxBattleUltraBeast)
+        {
+            MinIV = 1;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.OnlyBeast;
+            return true;
+        }
+
+        if (newType is PogoType.RaidShadowMythical)
+        {
+            MinIV = 8;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+            return true;
+        }
+
+        if (newType is >= PogoType.FieldResearch and <= PogoType.ReferralBonus)
+        {
+            MinIV = 1;
+            MinLevel = 15;
+            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            return true;
+        }
+
+        if (newType is PogoType.GBL)
+        {
+            MinIV = 1;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            return true;
+        }
+
+        if (newType is PogoType.GBLMythical)
+        {
+            MinIV = 10;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            return true;
+        }
+
+        if (newType is PogoType.GBLEvent)
+        {
+            MinIV = 0;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            return true;
+        }
+
+        if (newType is PogoType.Shadow)
+        {
+            MinIV = 0;
+            MinLevel = 8;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+            return true;
+        }
+
+        if (newType is PogoType.ShadowMythical)
+        {
+            MinIV = 8;
+            MinLevel = 8;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+            return true;
+        }
+
+        if (newType is PogoType.ShadowUltraBeast)
+        {
+            MinIV = 8;
+            MinLevel = 8;
+            BallRestriction = PogoBallRestriction.OnlyBeast;
+            return true;
+        }
+
+        return false;
     }
 }

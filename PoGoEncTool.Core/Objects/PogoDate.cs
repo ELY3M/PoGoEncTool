@@ -1,14 +1,15 @@
-﻿using System;
-using System.Text.Json.Serialization;
+using System;
+using System.ComponentModel;
 
 namespace PoGoEncTool.Core;
 
 [Serializable]
+[TypeConverter(typeof(PogoDateValueConverter))]
 public sealed record PogoDate(int Year, int Month, int Day) : IComparable<PogoDate>
 {
-    [JsonPropertyName("Y")] public int Year { get; set; } = Year;
-    [JsonPropertyName("M")] public int Month { get; set; } = Month;
-    [JsonPropertyName("D")] public int Day { get; set; } = Day;
+    public int Year { get; set; } = Year;
+    public int Month { get; set; } = Month;
+    public int Day { get; set; } = Day;
 
     public static PogoDate CreateNew() => new(DateTime.Now);
     public PogoDate(in DateTime value) : this(value.Year, value.Month, value.Day) { }

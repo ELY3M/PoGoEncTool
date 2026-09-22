@@ -1,4 +1,4 @@
-﻿using System.Text.Json.Serialization;
+using System.Text.Json.Serialization;
 
 namespace PoGoEncTool.Core;
 
@@ -7,5 +7,9 @@ namespace PoGoEncTool.Core;
 public sealed partial class ProgramSettingsContext : JsonSerializerContext;
 
 [JsonSerializable(typeof(PogoEncounterList))]
-[JsonSourceGenerationOptions(WriteIndented = true, DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingDefault)]
+[JsonSourceGenerationOptions(
+    WriteIndented = true,
+    DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingDefault,
+    UseStringEnumConverter = true,
+    Converters = [typeof(PogoDateJsonConverter)])]
 public sealed partial class PogoEncounterListContext : JsonSerializerContext;

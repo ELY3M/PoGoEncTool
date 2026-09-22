@@ -2,6 +2,7 @@ using PKHeX.Core;
 using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
+using static PoGoEncTool.Core.PogoBallRestriction;
 using static PoGoEncTool.Core.PogoShiny;
 using static PoGoEncTool.Core.PogoType;
 
@@ -21,7 +22,7 @@ public static class BulkActions
     {
         var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, byte Tier)>
         {
-            new((int)Bulbasaur, 0, Random, 1),
+            ((int)Bulbasaur, 0, Random, 1),
         };
 
         foreach (var enc in bosses)
@@ -55,6 +56,14 @@ public static class BulkActions
             if (type is Raid or RaidShadow or MaxBattle && SpeciesCategory.IsMythical(enc.Species))
                 type++;
 
+            byte iv = type switch
+            {
+                Raid or RaidShadow or MaxBattle or MaxBattleGigantamax => 1,
+                RaidMythical or MaxBattleMythical => 10,
+                RaidShadowMythical => 8,
+                _ => throw new System.ArgumentOutOfRangeException(nameof(type)),
+            };
+
             var stars = GetRaidBossTier(tier);
             var eventName = "";
             var descriptor = eventName is "" ? "" : $" ({eventName})";
@@ -66,9 +75,12 @@ public static class BulkActions
                 End   = new PogoDate(),
                 Type = type,
                 LocalizedStart = true,
-                NoEndTolerance = false,
+                HasEndTolerance = true,
                 Comment = comment,
                 Shiny = enc.Shiny,
+                MinIV = iv,
+                MinLevel = 20,
+                BallRestriction = OnlyPremier,
             };
 
             // set species as available if this encounter is its debut
@@ -106,10 +118,10 @@ public static class BulkActions
         var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, PogoDate Start, PogoDate End, MegaType Mega)>
         {
             // Five-Star
-            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), MegaType.None),
+            ((int)Bulbasaur, 0, Random, new(), new(), MegaType.None),
 
             // Mega
-            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), MegaType.Normal),
+            ((int)Bulbasaur, 0, Random, new(), new(), MegaType.Normal),
         };
 
         foreach (var enc in bosses)
@@ -129,15 +141,19 @@ public static class BulkActions
                 _ => Raid,
             };
 
+            var iv = type is RaidMythical ? (byte)10 : (byte)1;
             var entry = new PogoEntry
             {
                 Start = enc.Start,
                 End = enc.End,
                 Type = type,
                 LocalizedStart = true,
-                NoEndTolerance = false,
+                HasEndTolerance = true,
                 Comment = comment,
                 Shiny = enc.Shiny,
+                MinIV = iv,
+                MinLevel = 20,
+                BallRestriction = OnlyPremier,
             };
 
             // set species as available if this encounter is its debut
@@ -152,7 +168,7 @@ public static class BulkActions
     {
         var legendaries = new List<(ushort Species, byte Form, PogoShiny Shiny)>
         {
-            new((int)Articuno, 0, Random),
+            ((int)Articuno, 0, Random),
         };
 
         foreach (var enc in legendaries)
@@ -161,15 +177,19 @@ public static class BulkActions
             if (pk.Data.Any(z => IsRevertFormOnTransfer(enc.Species) || IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
                 continue;
             var type = SpeciesCategory.IsMythical(enc.Species) ? GBLMythical : GBL;
+            var iv = type is GBLMythical ? (byte)10 : (byte)1;
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
                 End = SeasonEnd,
                 Type = type,
                 LocalizedStart = true,
-                NoEndTolerance = false,
+                HasEndTolerance = true,
                 Comment = $"Reward Encounter (GO Battle League: {Season})",
                 Shiny = enc.Shiny,
+                MinIV = iv,
+                MinLevel = 20,
+                BallRestriction = Poke_Great_Ultra_Master,
             };
 
             // set species as available if this encounter is its debut
@@ -181,25 +201,23 @@ public static class BulkActions
 
         static bool IsRevertFormOnTransfer(ushort species) => species is (ushort)Giratina or (ushort)Genesect;
 
-        static bool IsLessRestrictiveEncounter(PogoType type) => type is Wild or ResearchBreakthrough or SpecialResearch or TimedResearch or CollectionChallenge or
-                                                                                 SpecialMythical or SpecialLevel10 or SpecialLevel20 or SpecialLevelRange or SpecialMythicalLevel10 or SpecialMythicalLevel20 or SpecialMythicalLevelRange or
-                                                                                 TimedMythical or TimedLevel10 or TimedLevel20 or TimedLevelRange or TimedMythicalLevel10 or TimedMythicalLevel20 or TimedMythicalLevelRange;
+        static bool IsLessRestrictiveEncounter(PogoType type) => type is Wild or ResearchBreakthrough or SpecialResearch or TimedResearch or CollectionChallenge;
     }
 
     public static void AddNewShadows(PogoEncounterList list)
     {
         var removed = new List<(ushort Species, byte Form)>
         {
-            new((int)Bulbasaur, 0),
+            ((int)Bulbasaur, 0),
         };
 
         var added = new List<(ushort Species, byte Form, PogoShiny Shiny)>
         {
-            new((int)Bulbasaur, 0, Random),
+            ((int)Bulbasaur, 0, Random),
         };
 
         // add end dates for Shadows that have been removed
-        foreach ((ushort s, byte f) in removed)
+        foreach (var (s, f) in removed)
         {
             var pk = list.GetDetails(s, f);
             var entries = pk.Data;
@@ -212,7 +230,7 @@ public static class BulkActions
         }
 
         // add new Shadows
-        foreach ((ushort s, byte f, PogoShiny shiny) in added)
+        foreach (var (s, f, shiny) in added)
         {
             var pk = list.GetDetails(s, f);
             var entry = new PogoEntry
@@ -221,8 +239,11 @@ public static class BulkActions
                 Shiny = shiny,
                 Type = Shadow,
                 LocalizedStart = true,
-                NoEndTolerance = false,
+                HasEndTolerance = true,
                 Comment = "Team GO Rocket Grunt",
+                MinIV = 1,
+                MinLevel = 8,
+                BallRestriction = OnlyPremier,
             };
 
             pk.Add(entry);
@@ -258,6 +279,7 @@ public static class BulkActions
             Kabuto => 1,
             Hoothoot => 1,
             Shuckle => 2,
+            Sneasel => 1, // verify
             Hitmontop => 3,
             Ralts => 1,
             Sableye => 3,
@@ -287,6 +309,7 @@ public static class BulkActions
             Rookidee => 1,
             Wooloo => 1,
             Toxtricity => 4,
+            Sizzlipede => 1, // verify
             Hatenna => 1,
             Falinks => 3,
             Duraludon => 4,

@@ -31,7 +31,6 @@ namespace PoGoEncTool.WinForms
             LB_Species = new System.Windows.Forms.ListBox();
             CB_Species = new System.Windows.Forms.ComboBox();
             CB_Form = new System.Windows.Forms.ComboBox();
-            pogoRow1 = new PogoRow();
             LB_Appearances = new System.Windows.Forms.ListBox();
             PB_Poke = new System.Windows.Forms.PictureBox();
             B_AddNew = new System.Windows.Forms.Button();
@@ -44,7 +43,13 @@ namespace PoGoEncTool.WinForms
             B_CopyToForms = new System.Windows.Forms.Button();
             B_DeleteAll = new System.Windows.Forms.Button();
             B_DumpAll = new System.Windows.Forms.Button();
+            SC_ListProps = new System.Windows.Forms.SplitContainer();
+            pogoRow1 = new PogoDataProps();
             ((System.ComponentModel.ISupportInitialize)PB_Poke).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)SC_ListProps).BeginInit();
+            SC_ListProps.Panel1.SuspendLayout();
+            SC_ListProps.Panel2.SuspendLayout();
+            SC_ListProps.SuspendLayout();
             SuspendLayout();
             // 
             // LB_Species
@@ -53,7 +58,7 @@ namespace PoGoEncTool.WinForms
             LB_Species.FormattingEnabled = true;
             LB_Species.Location = new System.Drawing.Point(12, 71);
             LB_Species.Name = "LB_Species";
-            LB_Species.Size = new System.Drawing.Size(140, 454);
+            LB_Species.Size = new System.Drawing.Size(140, 469);
             LB_Species.TabIndex = 1;
             LB_Species.SelectedIndexChanged += LB_Species_SelectedIndexChanged;
             // 
@@ -78,22 +83,13 @@ namespace PoGoEncTool.WinForms
             CB_Form.TabIndex = 3;
             CB_Form.SelectedIndexChanged += CB_Form_SelectedIndexChanged;
             // 
-            // pogoRow1
-            // 
-            pogoRow1.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
-            pogoRow1.Location = new System.Drawing.Point(287, 11);
-            pogoRow1.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
-            pogoRow1.Name = "pogoRow1";
-            pogoRow1.Size = new System.Drawing.Size(933, 58);
-            pogoRow1.TabIndex = 4;
-            // 
             // LB_Appearances
             // 
-            LB_Appearances.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
+            LB_Appearances.Dock = System.Windows.Forms.DockStyle.Fill;
             LB_Appearances.FormattingEnabled = true;
-            LB_Appearances.Location = new System.Drawing.Point(287, 71);
+            LB_Appearances.Location = new System.Drawing.Point(0, 0);
             LB_Appearances.Name = "LB_Appearances";
-            LB_Appearances.Size = new System.Drawing.Size(987, 454);
+            LB_Appearances.Size = new System.Drawing.Size(860, 539);
             LB_Appearances.TabIndex = 5;
             LB_Appearances.SelectedIndexChanged += LB_Appearances_SelectedIndexChanged;
             // 
@@ -118,7 +114,7 @@ namespace PoGoEncTool.WinForms
             // B_DeleteSelected
             // 
             B_DeleteSelected.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
-            B_DeleteSelected.Location = new System.Drawing.Point(160, 435);
+            B_DeleteSelected.Location = new System.Drawing.Point(160, 460);
             B_DeleteSelected.Name = "B_DeleteSelected";
             B_DeleteSelected.Size = new System.Drawing.Size(120, 42);
             B_DeleteSelected.TabIndex = 10;
@@ -129,9 +125,10 @@ namespace PoGoEncTool.WinForms
             // B_Save
             // 
             B_Save.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right;
-            B_Save.Location = new System.Drawing.Point(1204, 13);
+            B_Save.Location = new System.Drawing.Point(1502, 4);
+            B_Save.Margin = new System.Windows.Forms.Padding(0);
             B_Save.Name = "B_Save";
-            B_Save.Size = new System.Drawing.Size(70, 45);
+            B_Save.Size = new System.Drawing.Size(70, 29);
             B_Save.TabIndex = 13;
             B_Save.Text = "Save All";
             B_Save.UseVisualStyleBackColor = true;
@@ -193,7 +190,7 @@ namespace PoGoEncTool.WinForms
             // B_DeleteAll
             // 
             B_DeleteAll.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
-            B_DeleteAll.Location = new System.Drawing.Point(159, 483);
+            B_DeleteAll.Location = new System.Drawing.Point(159, 508);
             B_DeleteAll.Name = "B_DeleteAll";
             B_DeleteAll.Size = new System.Drawing.Size(120, 42);
             B_DeleteAll.TabIndex = 19;
@@ -211,11 +208,40 @@ namespace PoGoEncTool.WinForms
             B_DumpAll.UseVisualStyleBackColor = true;
             B_DumpAll.Click += B_DumpAll_Click;
             // 
+            // SC_ListProps
+            // 
+            SC_ListProps.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
+            SC_ListProps.Location = new System.Drawing.Point(286, 11);
+            SC_ListProps.Name = "SC_ListProps";
+            // 
+            // SC_ListProps.Panel1
+            // 
+            SC_ListProps.Panel1.Controls.Add(LB_Appearances);
+            SC_ListProps.Panel1MinSize = 100;
+            // 
+            // SC_ListProps.Panel2
+            // 
+            SC_ListProps.Panel2.Controls.Add(pogoRow1);
+            SC_ListProps.Panel2MinSize = 100;
+            SC_ListProps.Size = new System.Drawing.Size(1286, 539);
+            SC_ListProps.SplitterDistance = 860;
+            SC_ListProps.TabIndex = 21;
+            // 
+            // pogoRow1
+            // 
+            pogoRow1.Dock = System.Windows.Forms.DockStyle.Fill;
+            pogoRow1.Location = new System.Drawing.Point(0, 0);
+            pogoRow1.Name = "pogoRow1";
+            pogoRow1.Size = new System.Drawing.Size(422, 539);
+            pogoRow1.TabIndex = 0;
+            // 
             // Main
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1284, 536);
+            ClientSize = new System.Drawing.Size(1584, 561);
+            Controls.Add(B_Save);
+            Controls.Add(SC_ListProps);
             Controls.Add(B_DumpAll);
             Controls.Add(B_DeleteAll);
             Controls.Add(B_CopyToForms);
@@ -223,22 +249,22 @@ namespace PoGoEncTool.WinForms
             Controls.Add(B_MarkEvosAvailable);
             Controls.Add(L_PGFandom);
             Controls.Add(L_Serebii);
-            Controls.Add(B_Save);
             Controls.Add(B_DeleteSelected);
             Controls.Add(B_AddNew);
-            Controls.Add(LB_Appearances);
-            Controls.Add(pogoRow1);
             Controls.Add(CB_Form);
             Controls.Add(CB_Species);
             Controls.Add(LB_Species);
             Controls.Add(PB_Poke);
-            MaximumSize = new System.Drawing.Size(1300, 995);
-            MinimumSize = new System.Drawing.Size(1300, 575);
+            MinimumSize = new System.Drawing.Size(1600, 600);
             Name = "Main";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "PoGoEncTool";
             FormClosing += Main_FormClosing;
             ((System.ComponentModel.ISupportInitialize)PB_Poke).EndInit();
+            SC_ListProps.Panel1.ResumeLayout(false);
+            SC_ListProps.Panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)SC_ListProps).EndInit();
+            SC_ListProps.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -247,7 +273,6 @@ namespace PoGoEncTool.WinForms
         private System.Windows.Forms.ListBox LB_Species;
         private System.Windows.Forms.ComboBox CB_Species;
         private System.Windows.Forms.ComboBox CB_Form;
-        private PogoRow pogoRow1;
         private System.Windows.Forms.ListBox LB_Appearances;
         private System.Windows.Forms.PictureBox PB_Poke;
         private System.Windows.Forms.Button B_AddNew;
@@ -260,6 +285,8 @@ namespace PoGoEncTool.WinForms
         private System.Windows.Forms.Button B_CopyToForms;
         private System.Windows.Forms.Button B_DeleteAll;
         private System.Windows.Forms.Button B_DumpAll;
+        private System.Windows.Forms.SplitContainer SC_ListProps;
+        private PogoDataProps pogoRow1;
     }
 }
 
