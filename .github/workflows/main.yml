@@ -16,52 +16,41 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-    - name: Setup .NET 10
-      uses: actions/setup-dotnet@v4
-      with:
-       dotnet-version: '10.0.x'
-       
-    - name: Restore NuGet packages
-      working-directory: ${{env.GITHUB_WORKSPACE}}
-      run: dotnet restore . -p:EnableWindowsTargeting=true
-
-    - name: Build
-      working-directory: ${{env.GITHUB_WORKSPACE}}
-      # Add additional options to the MSBuild command line here (like platform or verbosity level).
-      # See https://docs.microsoft.com/visualstudio/msbuild/msbuild-command-line-reference
-      run: | 
-        dotnet build . -c Release -p:EnableWindowsTargeting=true -r win-x64 -p:ImportByWildcardBeforeSolution=false
-        dotnet publish ${{ github.workspace }}/PoGoEncTool.WinForms/PoGoEncTool.WinForms.csproj -c Release -p:EnableWindowsTargeting=true -r win-x64 --self-contained true -p:PublishSingleFile=true -p:ImportByWildcardBeforeSolution=false -o ./publish
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+         dotnet-version: '10.0.x'
          
-      
-    - name: Create Release
-      uses: actions/create-release@latest
-      env:
-        GITHUB_TOKEN: ${{ github.token }} 
-      with:
-        draft: false
-        prerelease: false
-        release_name: ${{ steps.version.outputs.version }}
-        tag_name: ${{ github.run_number }}
-        body: ${{ github.event.head_commit.message }}
-
-    ###zip -r ${{ github.workspace }}/linux-release.zip .
-    # - name: Zipping up Release folder
-      # run: | 
-        # cd ${{ github.workspace }}/publish/  
-        # zip -r ${{ github.workspace }}/PoGoEncTool-release.zip .
-
-             
-    - name: Upload Release
-      uses: softprops/action-gh-release@v2
-      with:
-        draft: false
-        prerelease: false    
-        tag_name: ${{ github.run_number }}
-        body: ${{ github.event.head_commit.message }}
-        files: ${{ github.workspace }}/publish/PoGoEncTool.WinForms.exe
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
-        
+      - name: Restore NuGet packages
+        working-directory: ${{env.GITHUB_WORKSPACE}}
+        run: dotnet restore . -p:EnableWindowsTargeting=true
+    
+      - name: Build
+        working-directory: ${{env.GITHUB_WORKSPACE}}
+        # Add additional options to the MSBuild command line here (like platform or verbosity level).
+        # See https://docs.microsoft.com/visualstudio/msbuild/msbuild-command-line-reference
+        run: | 
+          dotnet build . -c Release -p:EnableWindowsTargeting=true -r win-x64 -p:ImportByWildcardBeforeSolution=false
+          dotnet publish ${{ github.workspace }}/PoGoEncTool.WinForms/PoGoEncTool.WinForms.csproj -c Release -p:EnableWindowsTargeting=true -r win-x64 --self-contained true -p:PublishSingleFile=true -p:ImportByWildcardBeforeSolution=false -o ./publish
+           
+           
+      - name: get date/date 
+        env:
+          TZ: "America/Chicago"
+        run: | 
+          echo "NOW=$(date +'%m-%d-%Y-%I.%M.%S.%p')" >> $GITHUB_ENV
+                    
+      - name: Upload Release
+        uses: softprops/action-gh-release@v2
+        with:
+          draft: false
+          prerelease: false    
+          tag_name: ${{ env. NOW }}
+          body: ${{ github.event.head_commit.message }}
+          files: ${{ github.workspace }}/publish/PoGoEncTool.WinForms.exe
+          name: "Release ${{ env. NOW }}"
+          
+          
+          
